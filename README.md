@@ -2,6 +2,7 @@
 This program calculates Body Mass Index (BMI) based on Weight and Height. Then using this BMI Index value we can decide whether the person is underweight, normal weight, overweight, moderately obese, severely obese, very severely obese.
 ## Input:
 json file contains person's Gender, Height and Weight.
+## Formula = Weight(Kg)/Height(m2)
 ## Output 
 
 
